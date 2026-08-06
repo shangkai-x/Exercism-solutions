@@ -1,2 +1,2 @@
-# Exercism-CS-solutions
-Problem I solves on Exercism website on they C# course
+# Exercism-solutions
+Problem I solves on Exercism website on they C# and Python course
